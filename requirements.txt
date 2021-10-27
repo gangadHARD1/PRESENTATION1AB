@@ -1,0 +1,4 @@
+numpy==1.19.2
+plotly==4.14.3
+ross==0.1.1
+ross_rotordynamics==1.0.0
